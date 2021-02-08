@@ -1,2 +1,2 @@
 print("holamundo CAMBIADO")
-print("holamundo CAMBIADO2")
+print("holamindo desde pc")
